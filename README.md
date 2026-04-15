@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristóbal Rojas</h1>
-<h3 align="center">Full Stack Developer from Chile 🇨🇱 | Currently in CDMX 🇲🇽</h3>
+
+<h3 align="center">Full Stack Developer from Chile 🇨🇱 | Senior Software Engineer at Finnecto</h3>
 
 <p align="center">
   <a href="https://crowrojas.dev">🌐 Website</a> •
@@ -9,26 +10,26 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🏢 Currently working at **[Buk](https://buk.cl)** - HR Tech company
-- 🌎 Based in Santiago, Chile | 🎓 Exchange program in Mexico City
-- 💎 **+3 years** of experience with **Ruby on Rails**
-- 🚀 Creator of **[CommandDeck](https://github.com/crow-rojas/command_deck)** Ruby gem - Command Deck is a tiny, dev-only Rails engine that gives you a floating panel to run custom actions and quick admin tasks without opening Rails console.
-- 🌱 Always learning and exploring new technologies. Currently studying as a hobbie Game Development with Unity.
+- 🏢 Currently working at **[Finnecto](https://finnecto.com)** as Senior Software Engineer - FinTech platform for financial workflows
+- 🌎 Based in Santiago, Chile 🇨🇱
+- 💎 **+3 years** of experience with **Ruby on Rails**, **TypeScript**, and **Django/Python**
+- 🚀 Creator of **[CommandDeck](https://github.com/crow-rojas/command_deck)** Ruby gem - A tiny, dev-only Rails engine that gives you a floating panel to run custom actions and quick admin tasks without opening Rails console
+- 🌱 Full-stack developer passionate about building scalable systems. Experienced with both backend (Python/Django) and frontend (TypeScript/Vue.js) development
 - 🔗 Check out my portfolio: **[crowrojas.dev](https://crowrojas.dev)**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,python,js,react,vue,postgres,git,docker" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,js,ts,vue,react,django,postgres,git,docker" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crow-rojas&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -36,14 +37,13 @@
 
 ---
 
-### 📌 Pinned Projects
+## 📌 Pinned Projects
 
-Check out my gem:
-- **[CommandDeck](https://github.com/crow-rojas/command_deck)** - [A tiny, dev-only Rails engine that gives you a floating panel to run custom actions and quick admin tasks without opening Rails console]
+- **[CommandDeck](https://github.com/crow-rojas/command_deck)** - A tiny, dev-only Rails engine that gives you a floating panel to run custom actions and quick admin tasks without opening Rails console
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://crowrojas.dev"><img src="https://img.shields.io/badge/Website-crowrojas.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
