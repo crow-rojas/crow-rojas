@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://crowrojas.dev">🌐 Website</a> •
   <a href="https://linkedin.com/in/crow-rojas">💼 LinkedIn</a> •
+  <a href="https://instagram.com/crowdev.exe">📸 Instagram</a> •
   <a href="mailto:cristobal.rojasbrito@gmail.com">📧 Email</a>
 </p>
 
@@ -17,9 +18,9 @@
 - 💼 Previously Senior Software Engineer at **[Finnecto](https://finnecto.com)** - FinTech platform for financial workflows
 - 💼 Before that, Software Engineer at **[Buk](https://buk.cl)**
 - 🌎 Based in Santiago, Chile 🇨🇱
-- 💎 **+3 years** of experience with **Ruby on Rails**, **TypeScript**, and **Django/Python**
+- 💎 Building software professionally since 2023 with **Ruby on Rails**, **TypeScript**, and **Django/Python**
 - 🚀 Creator of **[CommandDeck](https://github.com/crow-rojas/command_deck)** Ruby gem - A tiny, dev-only Rails engine that gives you a floating panel to run custom actions and quick admin tasks without opening Rails console
-- 🌱 Full-stack developer passionate about building scalable systems. Experienced with both backend (Python/Django) and frontend (TypeScript/Vue.js) development
+- 🚗 Building **[IndiCar](https://indicar.cl)**: it turns a used-car dealer's own data, the market and what it learns from each dealer's history into decisions on selling the stock, buying and appraising, leads and the lot's finances
 - 🔗 Check out my portfolio: **[crowrojas.dev](https://crowrojas.dev)**
 
 ---
@@ -27,21 +28,15 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,python,js,ts,vue,react,django,postgres,git,docker" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crow-rojas&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,js,ts,vue,react,django,postgres,git,docker,aws,unity,unreal" />
 </p>
 
 ---
 
 ## 📌 Pinned Projects
 
+- **[ownship](https://github.com/crow-rojas/ownship)** - Understand what your coding agent ships under your name: spaced-repetition cards from its real work, on your phone and desktop, local-first
+- **[rails-vue-starter](https://github.com/crow-rojas/rails-vue-starter)** - A Rails + Inertia + Vue starter built for agent-driven development: PostgreSQL, Kamal, fast checks. IndiCar started from it
 - **[CommandDeck](https://github.com/crow-rojas/command_deck)** - A tiny, dev-only Rails engine that gives you a floating panel to run custom actions and quick admin tasks without opening Rails console
 
 ---
@@ -51,6 +46,7 @@
 <p align="center">
   <a href="https://crowrojas.dev"><img src="https://img.shields.io/badge/Website-crowrojas.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/crow-rojas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/crowdev.exe"><img src="https://img.shields.io/badge/Instagram-@crowdev.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
