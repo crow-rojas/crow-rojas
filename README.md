@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristóbal Rojas</h1>
 
-<h3 align="center">Full Stack Developer from Chile 🇨🇱 | Senior Software Engineer at Finnecto</h3>
+<h3 align="center">CTO at IndiCar 🚗 | Civil Engineer in Computer Science at UC 🇨🇱</h3>
 
 <p align="center">
   <a href="https://crowrojas.dev">🌐 Website</a> •
@@ -12,7 +12,10 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Currently working at **[Finnecto](https://finnecto.com)** as Senior Software Engineer - FinTech platform for financial workflows
+- 🏢 CTO at **[IndiCar](https://indicar.cl)** ([@indiq-tech](https://github.com/indiq-tech))
+- 🎓 Civil Engineer in Computer Science at **Pontificia Universidad Católica de Chile (UC)**
+- 💼 Previously Senior Software Engineer at **[Finnecto](https://finnecto.com)** - FinTech platform for financial workflows
+- 💼 Before that, Software Engineer at **[Buk](https://buk.cl)**
 - 🌎 Based in Santiago, Chile 🇨🇱
 - 💎 **+3 years** of experience with **Ruby on Rails**, **TypeScript**, and **Django/Python**
 - 🚀 Creator of **[CommandDeck](https://github.com/crow-rojas/command_deck)** Ruby gem - A tiny, dev-only Rails engine that gives you a floating panel to run custom actions and quick admin tasks without opening Rails console
