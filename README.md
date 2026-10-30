@@ -13,14 +13,14 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 CTO at **[IndiCar](https://indicar.cl)** ([@indiq-tech](https://github.com/indiq-tech))
+- 🏢 CTO at **[IndiCar](https://indicar.cl)** ([@indiq-tech](https://github.com/indiq-tech)): it turns a used-car dealer's own data, the market and what it learns from each dealer's history into decisions on selling the stock, buying and appraising, leads and the lot's finances
 - 🎓 Civil Engineer in Computer Science at **Pontificia Universidad Católica de Chile (UC)**
 - 💼 Previously Senior Software Engineer at **[Finnecto](https://finnecto.com)** - FinTech platform for financial workflows
 - 💼 Before that, Software Engineer at **[Buk](https://buk.cl)**
 - 🌎 Based in Santiago, Chile 🇨🇱
 - 💎 Building software professionally since 2023 with **Ruby on Rails**, **TypeScript**, and **Django/Python**
 - 🚀 Creator of **[CommandDeck](https://github.com/crow-rojas/command_deck)** Ruby gem - A tiny, dev-only Rails engine that gives you a floating panel to run custom actions and quick admin tasks without opening Rails console
-- 🚗 Building **[IndiCar](https://indicar.cl)**: it turns a used-car dealer's own data, the market and what it learns from each dealer's history into decisions on selling the stock, buying and appraising, leads and the lot's finances
+- 🎬 Side project: **[@crowdev.exe](https://instagram.com/crowdev.exe)**, Spanish Reels about Valorant built with code: a motion design system in **Remotion**, 3D b-roll in **Unreal Engine**, word-level captions with whisper.cpp + wav2vec2, and a Unity gamedev clone to learn the game's mechanics
 - 🔗 Check out my portfolio: **[crowrojas.dev](https://crowrojas.dev)**
 
 ---
